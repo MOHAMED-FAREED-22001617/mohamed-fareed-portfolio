@@ -392,7 +392,7 @@ function Index() {
                 </a>
               </div>
               <p className="mt-6 text-sm text-muted-foreground">
-                Resume available on request — just ask and I'll send the PDF.
+                Want to know more about my work? Download my resume to explore my skills, projects, and experience.
               </p>
             </div>
             <ContactForm />
